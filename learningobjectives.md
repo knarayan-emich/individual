@@ -4,4 +4,6 @@
 -github
 -branches
 -network
+-keychain
+-emoji selector
 
